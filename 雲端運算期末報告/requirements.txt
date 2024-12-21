@@ -1,0 +1,4 @@
+flask
+google-generativeai
+azure-storage-blob
+azure-cognitiveservices-vision-computervision
