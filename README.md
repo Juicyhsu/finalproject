@@ -1,2 +1,2 @@
 # finalproject
-finalproject
+finalproject_神奇Gemini聊天機器人
